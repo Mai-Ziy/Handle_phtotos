@@ -11,3 +11,15 @@ from PIL import Image, ImageEnhance
 import os
 import os.path
 import msvcrt
+
+
+
+这个工具可以把普通的图片转换成黑白来增强图片的风格
+简单易用你只需要下载我密封的可执行文件（.exe）
+欢迎使用
+
+源文件所需模块如下
+from PIL import Image, ImageEnhance
+import os
+import os.path
+import msvcrt
